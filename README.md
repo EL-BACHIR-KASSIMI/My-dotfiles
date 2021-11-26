@@ -1,2 +1,2 @@
-# dotfiles1
-A SetUp That Suckless.
+# Dotfiles
+# A SetUp That Suckless.
